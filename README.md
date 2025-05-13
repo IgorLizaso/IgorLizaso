@@ -13,18 +13,26 @@ Me apasiona la innovación y la mejora continua en el desarrollo de software.
 
 #### Backend:
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
-- ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)  
-- ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)  
 - ![Laravel](https://img.shields.io/badge/-Laravel-E74430?style=flat-square&logo=laravel&logoColor=white)  
-- ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+- ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)  
+- ![Django](https://img.shields.io/badge/-Django-092D1F?style=flat-square&logo=django&logoColor=white)  
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 #### Bases de Datos:
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
 - ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=mysql&logoColor=white)
 
-#### Bots y APIs:
+#### APIs:
+- ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)  
+- ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)  
+- ![Laravel](https://img.shields.io/badge/-Laravel-E74430?style=flat-square&logo=laravel&logoColor=white)  
+- ![Django](https://img.shields.io/badge/-Django-092D1F?style=flat-square&logo=django&logoColor=white)
+
+#### Bots:
 - ![Discord.js](https://img.shields.io/badge/-Discord.js-7289DA?style=flat-square&logo=discord&logoColor=white)  
-- ![Discord.py](https://img.shields.io/badge/-Discord.py-7289DA?style=flat-square&logo=discord&logoColor=white)
+- ![Discord.py](https://img.shields.io/badge/-Discord.py-7289DA?style=flat-square&logo=discord&logoColor=white)  
+- ![Serenity](https://img.shields.io/badge/-Serenity-00BFFF?style=flat-square&logo=discord&logoColor=white)  
+- ![Tokyo](https://img.shields.io/badge/-Tokyo-00BFFF?style=flat-square&logo=discord&logoColor=white)
 
 ### En constante aprendizaje y evolución  
 Siempre buscando nuevas oportunidades para aprender, mejorar y construir soluciones innovadoras.
