@@ -22,3 +22,5 @@ Me apasiona la innovación y la mejora continua en el desarrollo de software.
 
 ### 🚀 En constante aprendizaje y evolución  
 Siempre buscando nuevas oportunidades para aprender, mejorar y construir soluciones innovadoras.
+
+![GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=IgorLizaso&show_icons=true&hide_title=true&hide_border=true&count_private=true&hide=prs&theme=radical)
