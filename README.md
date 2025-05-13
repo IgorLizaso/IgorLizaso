@@ -14,7 +14,9 @@ Me apasiona la innovación y la mejora continua en el desarrollo de software.
 #### Backend:
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
 - ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)  
-- ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+- ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)  
+- ![Laravel](https://img.shields.io/badge/-Laravel-E74430?style=flat-square&logo=laravel&logoColor=white)  
+- ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 #### Bases de Datos:
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
