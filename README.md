@@ -1,4 +1,4 @@
-### 👋 Hola, soy [@IgorLizaso](https://github.com/IgorLizaso)  
+## 👋 Hola, soy [@IgorLizaso](https://github.com/IgorLizaso)  
 Soy desarrollador de 21 años, originario del País Vasco.  
 Me apasiona la innovación y la mejora continua en el desarrollo de software.
 
